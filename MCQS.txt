@@ -1,0 +1,65 @@
+1-Following factors play decisive role when choosing between IaaS, PaaS & SaaS clouds:
+ a. Cost/Control/Responsibility
+ b. Security/Technological Control/Availability
+ c. All of the above
+ ======================================================================================== 
+2-Following factors play decisive role when choosing between Public, Private & Hybrid clouds:
+ a. Security/Technological Control/Availability
+ b. Cost/Control/Responsibility
+ c. All of the above
+============================================================================================
+3-A colleague wants to know about Cloud Reference Architecture. You tell her it includes:
+ a. OS+Middleware
+ b. HW + NW
+ c. Apps/Front-end
+ d. All of the above?
+=============================================================================================
+4- Your intern says that Hybrid Cloud is an ideal option as it combines both IaaS & PaaS features.
+ a. He is right.
+ b. He is wrong.
+================================================================================================
+5-Your company provides cloud computing solutions to small-scale organizations. A new client wants 
+to know the difference Native hypervisors & Bare-metal hypervisors. You inform him that:
+ a. They are both the same
+ b. Bare-metal hypervisors are the same as Type-1 hypervisors
+ c. Native hypervisors are the same as Type-1 hypervisors
+ d. All of the above?
+==================================================================================================
+6-Because Type-2 hypervisors are run on top of an OS instead of directly running on top of hardware, 
+they are more efficient & secure than Type-1 Hypervisors.
+ a. True
+ b. False
+===================================================================================================
+7- Data Jurisdiction means which country is used by our cloud-provider to save our data. If an 
+organization doesn't feel safe & want their data to remain in their own control, they can use:
+ a. IaaS or PaaS Cloud
+ b. Private or Hybrid Cloud
+ c. Any of the above
+======================================================================================================
+8- A team member wants you to clarify the meaning of ‘Host’ when discussing virtualization. You tell 
+him it means:
+ a. the combination of hardware & hypervisor
+ b. the combination of hardware & docker
+ c. None of the above
+=======================================================================================================
+9-When an organizations can easily increase their infrastructure capacity as user load increases; they 
+have good
+ a. Performance
+ b. Availability
+ c. Scalability
+========================================================================================================
+10-Your manager argues that when using SaaS, because everything is managed & operated by the 
+vendor; we have to pay highest cost compared to other cloud service types.
+ a. He is right.
+ b. He is wrong.
+=========================================================================================================
+11- Microsoft & Amazon regularly upgrade hardware & software products running inside their clouds to 
+latest versions. This gives us great technological control when using their Public cloud.
+ a. True.
+
+ b. False.
+========================================================================================================
+12-Because we can choose & control which hardware & software technologies to use, Private Cloud is 
+much cheaper to deploy & use than Public Cloud.
+ a. True.
+ b. False.
